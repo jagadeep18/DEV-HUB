@@ -1,6 +1,6 @@
-import illustration from "@/assets/illustration.svg"
-import FormComponent from "@/components/forms/FormComponent"
-// import Footer from "@/components/common/Footer";
+import illustration from '../assets/illustration.svg';
+import FormComponent from '../components/forms/FormComponent';
+// import Footer from '../components/common/Footer';
 
 function HomePage() {
     return (
@@ -19,7 +19,7 @@ function HomePage() {
             </div>
             {/* <Footer /> */}
         </div>
-    )
+    );
 }
 
-export default HomePage
+export default HomePage;
